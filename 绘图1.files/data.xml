@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="页-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>连接线</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>流程图</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{CBD5E8FE-C911-417F-A29D-BE640048FAA0}" Name="矩形" NameU="Rectangle" Master="2">
+					<Text>用户</Text>
+					<XForm>
+						<PinX Unit="MM">2.066929133858269</PinX>
+						<PinY Unit="MM">10.196850393700789</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{42D2082E-DD39-4153-A92D-947BF48998B4}" Name="椭圆" NameU="Ellipse" Master="4">
+					<Text>邮箱</Text>
+					<XForm>
+						<PinX Unit="MM">1.692913385826777</PinX>
+						<PinY Unit="MM">10.846456692913389</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{0E1443B3-E7EF-433A-A484-781C63F14F82}" Name="椭圆.3" NameU="Ellipse.3" Master="4">
+					<Text>昵称</Text>
+					<XForm>
+						<PinX Unit="MM">2.677165354330718</PinX>
+						<PinY Unit="MM">10.826771653543306</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{1F0FDB1A-12D0-40A4-8654-F09CA9BA1C41}" Name="椭圆.4" NameU="Ellipse.4" Master="4">
+					<Text>密码</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086614175</PinX>
+						<PinY Unit="MM">10.826771653543306</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{ECC2573A-D257-422E-90C9-AB02346A3F2A}" Name="椭圆.5" NameU="Ellipse.5" Master="4">
+					<Text>用户号</Text>
+					<XForm>
+						<PinX Unit="MM">2.992125984251969</PinX>
+						<PinY Unit="MM">9.685039370078741</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{FEF8F26F-1024-4572-B4CB-96F717DD883D}" Name="动态连接线" NameU="Dynamic connector" Master="5">
+					<XForm>
+						<PinX Unit="MM">1.732283464566933</PinX>
+						<PinY Unit="MM">10.423228346456696</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="7" UniqueID="{6FA6B762-3B4E-4B3B-9791-ED3D7FACC42D}" Name="动态连接线.7" NameU="Dynamic connector.7" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.372047244094493</PinX>
+						<PinY Unit="MM">10.472440944881891</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="8" UniqueID="{C6830B7E-94A8-4F8C-B4D7-B1E6555D91AF}" Name="动态连接线.8" NameU="Dynamic connector.8" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.952755905511812</PinX>
+						<PinY Unit="MM">10.413385826771654</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="9" UniqueID="{07A583E6-D1CE-4DBB-86A6-6D0A17089056}" Name="动态连接线.9" NameU="Dynamic connector.9" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.529527559055119</PinX>
+						<PinY Unit="MM">9.980314960629922</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="10" UniqueID="{D1D701FC-4630-418B-9E58-09B7484C54F4}" Name="判定" NameU="Decision" Master="6">
+					<Text>爱好 </Text>
+					<XForm>
+						<PinX Unit="MM">4.311023622047244</PinX>
+						<PinY Unit="MM">9.685039370078741</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{19288506-4573-4708-B84A-0E31D6D0BA74}" Name="动态连接线.11" NameU="Dynamic connector.11" Master="5">
+					<Text>L
+</Text>
+					<XForm>
+						<PinX Unit="MM">3.090551181102363</PinX>
+						<PinY Unit="MM">9.940944881889765</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="12" UniqueID="{24B54C09-F064-4B90-B3E2-73BBEF109169}" Name="矩形.12" NameU="Rectangle.12" Master="2">
+					<Text>爱好度</Text>
+					<XForm>
+						<PinX Unit="MM">5.531496062992126</PinX>
+						<PinY Unit="MM">10.118110236220472</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{660B5E2E-959F-4942-B5BB-C5F72E3F5803}" Name="动态连接线.13" NameU="Dynamic connector.13" Master="5">
+					<Text>L</Text>
+					<XForm>
+						<PinX Unit="MM">5.019685039370080</PinX>
+						<PinY Unit="MM">9.901574803149607</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="14" UniqueID="{78449A50-43F9-4189-A94B-63B70D78B0B3}" Name="椭圆.14" NameU="Ellipse.14" Master="4">
+					<Text>比赛</Text>
+					<XForm>
+						<PinX Unit="MM">4.251968503937012</PinX>
+						<PinY Unit="MM">10.472440944881891</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{174BF1EA-4BF2-4D0E-ABDD-C3B57AD13348}" Name="椭圆.15" NameU="Ellipse.15" Master="4">
+					<Text>展览</Text>
+					<XForm>
+						<PinX Unit="MM">4.960629921259844</PinX>
+						<PinY Unit="MM">10.826771653543306</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{190332B6-C8A3-4936-9935-B268AB064DF7}" Name="椭圆.16" NameU="Ellipse.16" Master="4">
+					<Text>餐厅</Text>
+					<XForm>
+						<PinX Unit="MM">5.984251968503935</PinX>
+						<PinY Unit="MM">10.787401574803150</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{5741C4E4-9E92-4617-9950-7964DD162EBD}" Name="椭圆.17" NameU="Ellipse.17" Master="4">
+					<Text>电影</Text>
+					<XForm>
+						<PinX Unit="MM">6.929133858267718</PinX>
+						<PinY Unit="MM">10.118110236220472</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{0F69B903-3417-4FAF-B525-BFE2CD64404D}" Name="椭圆.18" NameU="Ellipse.18" Master="4">
+					<Text>ACG</Text>
+					<XForm>
+						<PinX Unit="MM">6.929133858267715</PinX>
+						<PinY Unit="MM">10.669291338582678</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{F5AF214F-F2A5-4FBF-BC17-0FEFAF89148A}" Name="椭圆.19" NameU="Ellipse.19" Master="4">
+					<Text>读书</Text>
+					<XForm>
+						<PinX Unit="MM">6.929133858267718</PinX>
+						<PinY Unit="MM">9.606299212598426</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{084FFB3B-813A-45F3-A6E2-88F06104A10F}" Name="椭圆.20" NameU="Ellipse.20" Master="4">
+					<Text>音乐</Text>
+					<XForm>
+						<PinX Unit="MM">6.220472440944883</PinX>
+						<PinY Unit="MM">9.212598425196848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{C1C983F9-C8BF-4EA3-88F8-AC3A6CBE648E}" Name="动态连接线.21" NameU="Dynamic connector.21" Master="5">
+					<XForm>
+						<PinX Unit="MM">4.940944881889765</PinX>
+						<PinY Unit="MM">10.295275590551181</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{4FDD3A5F-46EC-4D67-8303-C5FF90BCE457}" Name="动态连接线.22" NameU="Dynamic connector.22" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.098425196850394</PinX>
+						<PinY Unit="MM">10.374015748031496</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{7609670F-A081-44CB-81FB-A40666108A01}" Name="动态连接线.23" NameU="Dynamic connector.23" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.757874015748031</PinX>
+						<PinY Unit="MM">10.413385826771654</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="24" UniqueID="{9A9D2AAF-3C40-4517-9DC0-BAC23175150D}" Name="动态连接线.24" NameU="Dynamic connector.24" Master="5">
+					<XForm>
+						<PinX Unit="MM">6.181102362204724</PinX>
+						<PinY Unit="MM">10.393700787401574</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="25" UniqueID="{8D4D14FA-3231-467D-BDC1-C7CEE930445F}" Name="动态连接线.25" NameU="Dynamic connector.25" Master="5">
+					<XForm>
+						<PinX Unit="MM">6.181102362204726</PinX>
+						<PinY Unit="MM">10.118110236220472</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="26" UniqueID="{DF987AEB-A3D8-4A09-961B-0F8AC7B9BC9D}" Name="动态连接线.26" NameU="Dynamic connector.26" Master="5">
+					<XForm>
+						<PinX Unit="MM">6.181102362204726</PinX>
+						<PinY Unit="MM">9.862204724409448</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="27" UniqueID="{8F6B5724-91FA-4D31-A1CF-B1B241AC94E3}" Name="动态连接线.27" NameU="Dynamic connector.27" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.875984251968505</PinX>
+						<PinY Unit="MM">9.704724409448819</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="28" UniqueID="{5ED781BB-C5C8-4103-A314-69E6BA773771}" Name="判定.28" NameU="Decision.28" Master="6">
+					<Text>发帖</Text>
+					<XForm>
+						<PinX Unit="MM">2.893700787401575</PinX>
+						<PinY Unit="MM">9.094488188976378</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="29" UniqueID="{C1421512-50C3-46D8-948C-DA91AF1D1665}" Name="判定.29" NameU="Decision.29" Master="6">
+					<Text>收藏</Text>
+					<XForm>
+						<PinX Unit="MM">1.870078740157480</PinX>
+						<PinY Unit="MM">9.015748031496063</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="30" UniqueID="{6C13B284-403E-436A-B1A5-2FA1297165D6}" Name="矩形.30" NameU="Rectangle.30" Master="2">
+					<Text>帖子</Text>
+					<XForm>
+						<PinX Unit="MM">2.027559055118111</PinX>
+						<PinY Unit="MM">8.267716535433070</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{0657E2E1-968B-4D07-8DDA-8C51C2505F77}" Name="动态连接线.31" NameU="Dynamic connector.31" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.480314960629921</PinX>
+						<PinY Unit="MM">9.685039370078741</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{78FFDD86-17E6-45A9-BBBB-76A137A0EECB}" Name="椭圆.33" NameU="Ellipse.33" Master="4">
+					<Text>收藏号</Text>
+					<XForm>
+						<PinX Unit="MM">0.866141732283466</PinX>
+						<PinY Unit="MM">8.582677165354330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{E7DFCE80-BA7C-4522-8131-3DCED5BDC144}" Name="动态连接线.34" NameU="Dynamic connector.34" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">1.948818897637795</PinX>
+						<PinY Unit="MM">8.562992125984252</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="35" UniqueID="{E9EC83D5-C39C-4BD4-BCE0-AD8E0D9F68F2}" Name="椭圆.35" NameU="Ellipse.35" Master="4">
+					<Text>时间</Text>
+					<XForm>
+						<PinX Unit="MM">3.149606299212600</PinX>
+						<PinY Unit="MM">7.913385826771654</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{137ED209-622E-4767-B719-6FB55DA2D65E}" Name="椭圆.36" NameU="Ellipse.36" Master="4">
+					<Text>内容</Text>
+					<XForm>
+						<PinX Unit="MM">4.015748031496064</PinX>
+						<PinY Unit="MM">7.588582677165346</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{03640D3D-3E51-40C5-82E0-115798065163}" Name="椭圆.37" NameU="Ellipse.37" Master="4">
+					<Text>标题</Text>
+					<XForm>
+						<PinX Unit="MM">4.960629921259841</PinX>
+						<PinY Unit="MM">7.362204724409449</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{A54BFBD1-7AF8-480F-9953-C0E439049D2B}" Name="椭圆.38" NameU="Ellipse.38" Master="4">
+					<Text>类别</Text>
+					<XForm>
+						<PinX Unit="MM">2.007874015748033</PinX>
+						<PinY Unit="MM">7.362204724409448</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{B15BABA0-12DC-4724-838B-CBC4E617C278}" Name="椭圆.39" NameU="Ellipse.39" Master="4">
+					<Text>地区</Text>
+					<XForm>
+						<PinX Unit="MM">0.944881889763775</PinX>
+						<PinY Unit="MM">7.362204724409448</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{A171F294-A04D-4CED-BDF9-0B45EAC5FED1}" Name="椭圆.40" NameU="Ellipse.40" Master="4">
+					<Text>帖子号</Text>
+					<XForm>
+						<PinX Unit="MM">0.866141732283466</PinX>
+						<PinY Unit="MM">8.031496062992126</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{D014A791-243A-4082-90ED-DEE6B477162C}" Name="动态连接线.41" NameU="Dynamic connector.41" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">2.460629921259843</PinX>
+						<PinY Unit="MM">8.641732283464567</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="42" UniqueID="{9197C50B-93B6-4A06-88C8-D758BAAAEC13}" Name="判定.42" NameU="Decision.42" Master="6">
+					<Text>发图</Text>
+					<XForm>
+						<PinX Unit="MM">0.807086614173228</PinX>
+						<PinY Unit="MM">10.393700787401574</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="43" UniqueID="{5E178239-5057-4870-BF4C-B157F0CAD02E}" Name="动态连接线.43" NameU="Dynamic connector.43" Master="5">
+					<Text>L</Text>
+					<XForm>
+						<PinX Unit="MM">1.437007874015749</PinX>
+						<PinY Unit="MM">10.295275590551181</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="44" UniqueID="{CF559346-5BD7-4933-9872-429B25DB1946}" Name="矩形.44" NameU="Rectangle.44" Master="2">
+					<Text>图片</Text>
+					<XForm>
+						<PinX Unit="MM">0.807086614173228</PinX>
+						<PinY Unit="MM">9.606299212598426</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{A4660AC3-16B9-4303-A46F-A12C85A561B8}" Name="椭圆.46" NameU="Ellipse.46" Master="4">
+					<Text>昵称</Text>
+					<XForm>
+						<PinX Unit="MM">1.535433070866140</PinX>
+						<PinY Unit="MM">9.606299212598426</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{319B4825-64B9-4926-85B3-61210B755A7D}" Name="椭圆.47" NameU="Ellipse.47" Master="4">
+					<Text>地区</Text>
+					<XForm>
+						<PinX Unit="MM">0.807086614173228</PinX>
+						<PinY Unit="MM">9.084645669291341</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{BD5F9A7B-307C-4F23-8D8A-29C7E89B364B}" Name="动态连接线.48" NameU="Dynamic connector.48" Master="5">
+					<XForm>
+						<PinX Unit="MM">1.181102362204724</PinX>
+						<PinY Unit="MM">9.606299212598426</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="49" UniqueID="{4144CDF7-1E09-4AB3-A140-B01BCD8D231D}" Name="动态连接线.49" NameU="Dynamic connector.49" Master="5">
+					<XForm>
+						<PinX Unit="MM">0.807086614173228</PinX>
+						<PinY Unit="MM">9.360236220472444</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="50" UniqueID="{37E8A507-7110-498A-9615-26989212B8AC}" Name="动态连接线.50" NameU="Dynamic connector.50" Master="5">
+					<Text>P</Text>
+					<XForm>
+						<PinX Unit="MM">1.417322834645669</PinX>
+						<PinY Unit="MM">8.799212598425196</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="51" UniqueID="{8B443607-30D8-4B7B-B919-61FD24C8498B}" Name="动态连接线.51" NameU="Dynamic connector.51" Master="5">
+					<XForm>
+						<PinX Unit="MM">1.496062992125985</PinX>
+						<PinY Unit="MM">8.149606299212598</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="53" UniqueID="{942B0624-6542-4A9B-951E-6D8F60C915B0}" Name="动态连接线.53" NameU="Dynamic connector.53" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.017716535433072</PinX>
+						<PinY Unit="MM">7.854330708661417</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="52" UniqueID="{14AC0196-E175-41EE-BEB4-6E3B0246486D}" Name="动态连接线.52" NameU="Dynamic connector.52" Master="5">
+					<XForm>
+						<PinX Unit="MM">1.486220472440943</PinX>
+						<PinY Unit="MM">7.854330708661417</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="54" UniqueID="{DE87726C-2A4B-46F8-9FA4-06ACD6F0565C}" Name="动态连接线.54" NameU="Dynamic connector.54" Master="5">
+					<XForm>
+						<PinX Unit="MM">3.444881889763779</PinX>
+						<PinY Unit="MM">7.814960629921259</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="55" UniqueID="{AE63198C-07D5-466B-ADF9-0E520D807A5A}" Name="动态连接线.55" NameU="Dynamic connector.55" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.539370078740159</PinX>
+						<PinY Unit="MM">8.090551181102363</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="56" UniqueID="{4D8B18C4-3393-4684-84DB-052EEA898F8C}" Name="动态连接线.56" NameU="Dynamic connector.56" Master="5">
+					<XForm>
+						<PinX Unit="MM">2.972440944881891</PinX>
+						<PinY Unit="MM">7.928149606299208</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="57" UniqueID="{E769909A-7BD2-42DA-B8A6-2B9AAA636AAB}" Name="判定.57" NameU="Decision.57" Master="6">
+					<Text>评论</Text>
+					<XForm>
+						<PinX Unit="MM">3.661417322834645</PinX>
+						<PinY Unit="MM">8.976377952755906</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="58" UniqueID="{1D409352-E3DD-4349-B7FC-D0D41B46A2E3}" Name="动态连接线.58" NameU="Dynamic connector.58" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">3.011811023622047</PinX>
+						<PinY Unit="MM">9.680118110236222</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="60" UniqueID="{AA83161F-8517-4107-B35F-1F12F21CBD42}" Name="椭圆.60" NameU="Ellipse.60" Master="4">
+					<Text>时间</Text>
+					<XForm>
+						<PinX Unit="MM">6.023622047244096</PinX>
+						<PinY Unit="MM">8.700787401574804</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="61" UniqueID="{29A03C39-F2C9-47D7-8244-149BB92AF273}" Name="椭圆.61" NameU="Ellipse.61" Master="4">
+					<Text>内容</Text>
+					<XForm>
+						<PinX Unit="MM">5.354330708661416</PinX>
+						<PinY Unit="MM">8.267716535433070</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{F10C87D8-0A0A-45EE-B593-B635BB15A3B4}" Name="椭圆.62" NameU="Ellipse.62" Master="4">
+					<Text>类别</Text>
+					<XForm>
+						<PinX Unit="MM">4.370078740157483</PinX>
+						<PinY Unit="MM">8.287401574803145</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{C9FBE341-85D8-4A39-95C7-878BA2535F5D}" Name="动态连接线.45" NameU="Dynamic connector.45" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">0.807086614173228</PinX>
+						<PinY Unit="MM">9.921259842519685</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="66" UniqueID="{A1B0FEBB-CF16-47EC-9D2B-42B38B2A4A57}" Name="矩形.66" NameU="Rectangle.66" Master="2">
+					<Text>评论</Text>
+					<XForm>
+						<PinX Unit="MM">4.881889763779529</PinX>
+						<PinY Unit="MM">8.976377952755904</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="59" UniqueID="{815A88ED-40E1-4E04-9EDB-85FF3232F853}" Name="动态连接线.59" NameU="Dynamic connector.59" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">2.992125984251968</PinX>
+						<PinY Unit="MM">8.528543307086615</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="67" UniqueID="{D5D303D3-F415-4861-920A-572263ECB131}" Name="动态连接线.67" NameU="Dynamic connector.67" Master="5">
+					<Text>P</Text>
+					<XForm>
+						<PinX Unit="MM">4.320866141732284</PinX>
+						<PinY Unit="MM">8.976377952755904</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="63" UniqueID="{AFEC60E3-7A05-4812-A56B-ADBE79DADF03}" Name="动态连接线.63" NameU="Dynamic connector.63" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.403543307086617</PinX>
+						<PinY Unit="MM">8.838582677165354</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="64" UniqueID="{071D922E-4049-4DAA-B7D7-8A54CBF82D69}" Name="动态连接线.64" NameU="Dynamic connector.64" Master="5">
+					<XForm>
+						<PinX Unit="MM">4.921259842519685</PinX>
+						<PinY Unit="MM">8.562992125984252</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="65" UniqueID="{4A98B6A2-3887-4591-B921-9DDAA73FD22F}" Name="动态连接线.65" NameU="Dynamic connector.65" Master="5">
+					<XForm>
+						<PinX Unit="MM">4.478346456692916</PinX>
+						<PinY Unit="MM">8.730314960629919</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{0C5DE5CB-F7A5-47B7-8A53-CDCAADA95EFA}" Name="动态连接线.32" NameU="Dynamic connector.32" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">1.968503937007874</PinX>
+						<PinY Unit="MM">9.685039370078741</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="68" UniqueID="{A396CF22-9DB5-4BCB-B7EB-666F04C44BBD}" Name="矩形.68" NameU="Rectangle.68" Master="2">
+					<Text>用户</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">6.692913385826771</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="69" UniqueID="{5D2853A6-87F1-4034-BF28-298F40F832E8}" Name="判定.69" NameU="Decision.69" Master="6">
+					<Text>好友</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">6.220472440944882</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="70" UniqueID="{1C771AB9-C811-4315-AA7A-0D8DC39128AD}" Name="椭圆.70" NameU="Ellipse.70" Master="4">
+					<Text>好友号</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606300</PinX>
+						<PinY Unit="MM">5.629921259842520</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="71" UniqueID="{BE25AA08-C510-4DD1-B7B7-86B69F288455}" Name="矩形.71" NameU="Rectangle.71" Master="2">
+					<Text>用户</Text>
+					<XForm>
+						<PinX Unit="MM">3.110236220472441</PinX>
+						<PinY Unit="MM">6.673228346456693</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="72" UniqueID="{10EEA6A6-E313-4834-9B93-5FDB61CA3C2B}" Name="判定.72" NameU="Decision.72" Master="6">
+					<Text>私信</Text>
+					<XForm>
+						<PinX Unit="MM">3.110236220472441</PinX>
+						<PinY Unit="MM">6.200787401574803</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="73" UniqueID="{9DF1339D-D50D-4994-93C6-9DF939275C5E}" Name="椭圆.73" NameU="Ellipse.73" Master="4">
+					<Text>私信号</Text>
+					<XForm>
+						<PinX Unit="MM">3.110236220472439</PinX>
+						<PinY Unit="MM">5.610236220472442</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="74" UniqueID="{D513CD1E-9E82-4C86-800E-13D4C3EC3204}" Name="矩形.74" NameU="Rectangle.74" Master="2">
+					<Text>用户</Text>
+					<XForm>
+						<PinX Unit="MM">4.311023622047244</PinX>
+						<PinY Unit="MM">6.673228346456693</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="75" UniqueID="{78C0D362-B4C4-4D60-8333-EB7D1384DFA3}" Name="判定.75" NameU="Decision.75" Master="6">
+					<Text>收藏</Text>
+					<XForm>
+						<PinX Unit="MM">4.842519685039370</PinX>
+						<PinY Unit="MM">6.161417322834645</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>成本</Label>
+					</Prop>
+					<Prop ID="2" Name="ProcessNumber" NameU="ProcessNumber">
+						<Value></Value>
+						<Label>进程编号</Label>
+					</Prop>
+					<Prop ID="3" Name="Owner" NameU="Owner">
+						<Value></Value>
+						<Label>所有者</Label>
+					</Prop>
+					<Prop ID="4" Name="Function" NameU="Function">
+						<Value></Value>
+						<Label>函数</Label>
+					</Prop>
+					<Prop ID="5" Name="StartDate" NameU="StartDate">
+						<Value></Value>
+						<Label>开始日期</Label>
+					</Prop>
+					<Prop ID="6" Name="EndDate" NameU="EndDate">
+						<Value></Value>
+						<Label>结束日期</Label>
+					</Prop>
+					<Prop ID="7" Name="Status" NameU="Status">
+						<Value></Value>
+						<Label>状态</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="76" UniqueID="{54FE730F-6688-46AB-BE33-5458010851BF}" Name="椭圆.76" NameU="Ellipse.76" Master="4">
+					<Text>收藏号</Text>
+					<XForm>
+						<PinX Unit="MM">4.842519685039370</PinX>
+						<PinY Unit="MM">5.590551181102363</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="77" UniqueID="{B3740B4A-B4F4-4135-AE44-508F63FBCFA1}" Name="矩形.77" NameU="Rectangle.77" Master="2">
+					<Text>帖子</Text>
+					<XForm>
+						<PinX Unit="MM">5.354330708661418</PinX>
+						<PinY Unit="MM">6.673228346456693</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="79" UniqueID="{4F77DDCB-56C4-486E-9BBF-3EFEE16C080C}" Name="动态连接线.79" NameU="Dynamic connector.79" Master="5">
+					<XForm>
+						<PinX Unit="MM">1.574803149606300</PinX>
+						<PinY Unit="MM">5.925196850393701</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="81" UniqueID="{2B5D1762-6D32-47C7-8B49-C82C048A097C}" Name="动态连接线.81" NameU="Dynamic connector.81" Master="5">
+					<XForm>
+						<PinX Unit="MM">3.110236220472442</PinX>
+						<PinY Unit="MM">5.905511811023622</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="82" UniqueID="{FA6CD7F4-B0C8-4156-A917-01B60F74B13C}" Name="动态连接线.82" NameU="Dynamic connector.82" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">4.389763779527559</PinX>
+						<PinY Unit="MM">6.358267716535432</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="83" UniqueID="{472B3E57-408F-49BB-B173-C154A302A4C7}" Name="动态连接线.83" NameU="Dynamic connector.83" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">5.285433070866143</PinX>
+						<PinY Unit="MM">6.358267716535432</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="84" UniqueID="{911E62A9-1D08-471A-BF4D-E4DD9BE16260}" Name="动态连接线.84" NameU="Dynamic connector.84" Master="5">
+					<XForm>
+						<PinX Unit="MM">4.842519685039370</PinX>
+						<PinY Unit="MM">5.875984251968504</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="78" UniqueID="{63C14053-508A-48B3-89CA-729A4440B466}" Name="动态连接线.78" NameU="Dynamic connector.78" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">1.240157480314961</PinX>
+						<PinY Unit="MM">6.456692913385826</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="85" UniqueID="{33E0F26D-EF70-41D6-B48B-2A04B063F775}" Name="动态连接线.85" NameU="Dynamic connector.85" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">1.909448818897637</PinX>
+						<PinY Unit="MM">6.456692913385826</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="80" UniqueID="{7C63C056-A0C6-4521-97A2-2B7D9ED54A9A}" Name="动态连接线.80" NameU="Dynamic connector.80" Master="5">
+					<Text>M</Text>
+					<XForm>
+						<PinX Unit="MM">2.775590551181103</PinX>
+						<PinY Unit="MM">6.437007874015748</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="86" UniqueID="{77DA2371-3F41-4388-9600-D8B5EE67127C}" Name="动态连接线.86" NameU="Dynamic connector.86" Master="5">
+					<Text>N</Text>
+					<XForm>
+						<PinX Unit="MM">3.444881889763779</PinX>
+						<PinY Unit="MM">6.437007874015748</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

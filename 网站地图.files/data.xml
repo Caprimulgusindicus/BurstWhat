@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="页-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>网站图形状</Name>
+				<NameUniv>Web Site Map Shapes</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>连接线</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Value Unit="STR">3.0000 mm</Value>
+			<Label>连接线偏移量</Label>
+			<Shapes>
+				<Shape ID="1" UniqueID="{94A524BC-9B18-4682-A390-662C9DA2064A}" Name="矩形" NameU="Rectangle" Master="11">
+					<Text>首页</Text>
+					<XForm>
+						<PinX Unit="MM">1.614173228346457</PinX>
+						<PinY Unit="MM">9.291338582677167</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{705E6255-F83A-4783-A199-FFC4FF3A0C0D}" Name="矩形.2" NameU="Rectangle.2" Master="11">
+					<Text>城客</Text>
+					<XForm>
+						<PinX Unit="MM">2.913385826771654</PinX>
+						<PinY Unit="MM">10.433070866141735</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{55352D0B-EA0F-445B-9384-A6E07AABAB5A}" Name="矩形.3" NameU="Rectangle.3" Master="11">
+					<Text>爱好社</Text>
+					<XForm>
+						<PinX Unit="MM">2.913385826771654</PinX>
+						<PinY Unit="MM">9.645669291338582</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{A59CA063-3D59-4979-8A75-5C9EEDF2749A}" Name="矩形.4" NameU="Rectangle.4" Master="11">
+					<Text>此刻</Text>
+					<XForm>
+						<PinX Unit="MM">2.913385826771654</PinX>
+						<PinY Unit="MM">8.858267716535433</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{AD4B665B-90DF-4DDF-8A82-0F41D134A85C}" Name="矩形.5" NameU="Rectangle.5" Master="11">
+					<Text>个人中心</Text>
+					<XForm>
+						<PinX Unit="MM">4.173228346456693</PinX>
+						<PinY Unit="MM">7.283464566929135</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{4892F732-8ADA-456E-AF1B-490109702A53}" Name="矩形.6" NameU="Rectangle.6" Master="11">
+					<Text>注册</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905511812</PinX>
+						<PinY Unit="MM">8.070866141732283</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{56C378E5-D014-4B48-ACC7-C21974206121}" Name="矩形.7" NameU="Rectangle.7" Master="11">
+					<Text>登陆</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905511811</PinX>
+						<PinY Unit="MM">7.283464566929133</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{1F8BBCD2-641A-439C-A03D-D91E9D7C12C6}" Name="动态连接线.11" NameU="Dynamic connector.11" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.263779527559056</PinX>
+						<PinY Unit="MM">9.862204724409452</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="12" UniqueID="{866C091B-A865-4B05-A61D-F005955C7915}" Name="动态连接线.12" NameU="Dynamic connector.12" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.263779527559056</PinX>
+						<PinY Unit="MM">9.468503937007874</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="13" UniqueID="{5C8C6624-3C32-4DB5-A830-2DFC68971881}" Name="动态连接线.13" NameU="Dynamic connector.13" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.263779527559056</PinX>
+						<PinY Unit="MM">9.074803149606300</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="14" UniqueID="{9010B03D-644E-4C23-80AE-6D9AB81C4073}" Name="矩形.14" NameU="Rectangle.14" Master="11">
+					<Text>收藏</Text>
+					<XForm>
+						<PinX Unit="MM">5.354330708661417</PinX>
+						<PinY Unit="MM">7.716535433070868</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{72838856-A851-4F3E-87EB-38F39DE731F3}" Name="矩形.15" NameU="Rectangle.15" Master="11">
+					<Text>好友</Text>
+					<XForm>
+						<PinX Unit="MM">5.354330708661417</PinX>
+						<PinY Unit="MM">7.086614173228348</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{2499DE8D-2441-40B1-8FCB-76347A5A6C1E}" Name="矩形.16" NameU="Rectangle.16" Master="11">
+					<Text>推荐</Text>
+					<XForm>
+						<PinX Unit="MM">5.354330708661417</PinX>
+						<PinY Unit="MM">6.496062992125985</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{329B8714-33BF-47E4-BD3D-CDF452BD8E37}" Name="动态连接线.17" NameU="Dynamic connector.17" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.763779527559055</PinX>
+						<PinY Unit="MM">7.500000000000002</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="18" UniqueID="{5A9A2A6A-07F5-4320-AA63-96D3AB1E1EC5}" Name="动态连接线.18" NameU="Dynamic connector.18" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.763779527559055</PinX>
+						<PinY Unit="MM">7.185039370078742</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="19" UniqueID="{70B06224-FA73-4BB5-BAA5-03B4C85686AF}" Name="动态连接线.19" NameU="Dynamic connector.19" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.763779527559055</PinX>
+						<PinY Unit="MM">6.889763779527560</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="20" UniqueID="{810A7BE3-795C-4597-AB26-ADDF7A14F7E0}" Name="矩形.20" NameU="Rectangle.20" Master="11">
+					<Text>电影</Text>
+					<XForm>
+						<PinX Unit="MM">5.275590551181102</PinX>
+						<PinY Unit="MM">10.590551181102361</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{5F352049-DB8E-4145-94FD-AD756D79920C}" Name="矩形.21" NameU="Rectangle.21" Master="11">
+					<Text>读书</Text>
+					<XForm>
+						<PinX Unit="MM">5.275590551181102</PinX>
+						<PinY Unit="MM">9.960629921259844</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{11F1D9E5-9DB7-4D16-86B1-4BD1E0BDFDE9}" Name="矩形.22" NameU="Rectangle.22" Master="11">
+					<Text>音乐</Text>
+					<XForm>
+						<PinX Unit="MM">5.275590551181102</PinX>
+						<PinY Unit="MM">9.291338582677167</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{418B29CA-1C64-4484-9457-5433B12A61B0}" Name="矩形.23" NameU="Rectangle.23" Master="11">
+					<Text>ACG</Text>
+					<XForm>
+						<PinX Unit="MM">5.275590551181104</PinX>
+						<PinY Unit="MM">8.622047244094487</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{2C3EB83C-8B5E-4BE6-BB6B-C1C211D2A0E1}" Name="动态连接线.24" NameU="Dynamic connector.24" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.094488188976380</PinX>
+						<PinY Unit="MM">10.118110236220470</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="25" UniqueID="{6284BB3B-7A4F-4D96-8ADF-9FD38D742920}" Name="动态连接线.25" NameU="Dynamic connector.25" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.094488188976378</PinX>
+						<PinY Unit="MM">9.803149606299213</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="28" UniqueID="{4088552C-6CA0-4246-AE69-906E59239878}" Name="矩形.28" NameU="Rectangle.28" Master="11">
+					<Text>餐厅</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015747</PinX>
+						<PinY Unit="MM">11.102362204724411</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{1B8EF74E-2BC7-4880-BD1C-B41AF4128B17}" Name="矩形.29" NameU="Rectangle.29" Master="11">
+					<Text>展览</Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">10.551181102362204</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{1CB548EF-129D-4DC3-9FC1-8F81AF549FCD}" Name="矩形.30" NameU="Rectangle.30" Master="11">
+					<Text>比赛 </Text>
+					<XForm>
+						<PinX Unit="MM">3.937007874015748</PinX>
+						<PinY Unit="MM">10.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="31" UniqueID="{A4A9C3B7-7D7F-47DF-9FE3-B46D9CC48248}" Name="动态连接线.31" NameU="Dynamic connector.31" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.425196850393701</PinX>
+						<PinY Unit="MM">10.767716535433074</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{98F6FEFC-0AA9-463F-BA49-64260627ADDB}" Name="动态连接线.32" NameU="Dynamic connector.32" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.425196850393701</PinX>
+						<PinY Unit="MM">10.492125984251970</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{3B6207E5-F92D-40F8-946D-F93277564571}" Name="动态连接线.33" NameU="Dynamic connector.33" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.425196850393701</PinX>
+						<PinY Unit="MM">10.216535433070867</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="26" UniqueID="{87A1C404-4867-4DC2-8250-28B181A70EA3}" Name="动态连接线.26" NameU="Dynamic connector.26" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.094488188976378</PinX>
+						<PinY Unit="MM">9.468503937007874</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="27" UniqueID="{CE64473E-CF0B-41C1-81B8-90417520C939}" Name="动态连接线.27" NameU="Dynamic connector.27" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.094488188976379</PinX>
+						<PinY Unit="MM">9.133858267716533</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="8" UniqueID="{E5F33876-0377-47D8-AE70-F0639F38BD20}" Name="动态连接线" NameU="Dynamic connector" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.283464566929134</PinX>
+						<PinY Unit="MM">8.681102362204726</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="9" UniqueID="{C635E32F-8105-4696-A458-7E7F1A4262C8}" Name="动态连接线.9" NameU="Dynamic connector.9" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.283464566929134</PinX>
+						<PinY Unit="MM">8.287401574803150</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="10" UniqueID="{A83003F0-EF0A-44EF-98F1-E1C8F860E98E}" Name="动态连接线.10" NameU="Dynamic connector.10" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.562992125984252</PinX>
+						<PinY Unit="MM">7.283464566929134</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

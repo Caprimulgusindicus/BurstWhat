@@ -1,0 +1,2447 @@
+<Canvas Height="1122.5" Name="Workspace" Width="793.7" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<!-- Page 页-1 -->
+	<Canvas Width="793.7" Height="1122.5" Name="D">
+		<Canvas.Background>
+			<SolidColorBrush Color="#FFFFFFFF"/>
+		</Canvas.Background>
+		<Canvas Tag="_1" Name="_1" RenderTransform="1, 0, 0, 1, 170.07874, -967.559055">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_1_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_1_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11102" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="6253" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_2" Name="_2" RenderTransform="1, 0, 0, 1, 124.724409, -1022.362205">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_2_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_2_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="18148" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12775" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_3" Name="_3" RenderTransform="1, 0, 0, 1, 219.212598, -1020.472441">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_3_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_3_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7275" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12326" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_4" Name="_4" RenderTransform="1, 0, 0, 1, 302.362205, -1020.472441">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_4_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_4_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4604" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11831" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_5" Name="_5" RenderTransform="1, 0, 0, 1, 249.448819, -910.866142">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_5_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_5_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11102" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="6253" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_6" Name="_6" RenderTransform="1, 0, 0, 1, 156.850394, -1022.362205">
+			<Path Name="_6_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M5.67 1122.52 L5.67 1162.2 A3.77953 3.77953 -180 0 0 9.45 1165.98 L13.23 1165.98">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_7" Name="_7" RenderTransform="1, 0, 0, 1, 257.007874, -1020.472441">
+			<Path Name="_7_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1129.61 A7.08661 7.08661 0 0 1 -7.09 1136.69 L-50.55 1136.69 A8.0315 8.0315 -180 0 0 -58.58 1144.72 L-58.58 1152.76">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_8" Name="_8" RenderTransform="1, 0, 0, 1, 340.15748, -1020.472441">
+			<Path Name="_8_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1143.31 A20.7874 20.7874 0 0 1 -20.79 1164.09 L-113.39 1164.09">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_9" Name="_9" RenderTransform="1, 0, 0, 1, 198.425197, -967.559055">
+			<Path Name="_9_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1126.06 A3.54331 3.54331 -180 0 0 3.54 1129.61 L82.91 1129.61 A5.90551 5.90551 0 0 1 88.82 1135.51 L88.82 1141.42">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_10" Name="_10" RenderTransform="1, 0, 0, 1, 366.614173, -901.417323">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_10_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1094.17 L47.24 1065.83 L94.49 1094.17 L47.24 1122.52 L0 1094.17 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_10_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1094.17 L47.24 1065.83 L94.49 1094.17 L47.24 1122.52 L0 1094.17 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 7.874016, 1072.913386" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="10343" OriginX="0.299" OriginY="0.25479">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 7.874016, 1072.913386" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4019" OriginX="0.41011" OriginY="0.25479">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_11" Name="_11" RenderTransform="1, 0, 0, 1, 366.614173, -929.76378">
+			<Path Name="_11_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 0 0 1 -14.17 1115.43 L-14.17 1115.43 A42.0472 42.0472 -180 0 0 -56.22 1073.39 L-139.84 1073.39">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-62.412" Canvas.Top="1060.6" Height="25.6" Name="_11TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -86.411971, 1055.250142" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="47" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_12" Name="_12" RenderTransform="1, 0, 0, 1, 502.677165, -960">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_12_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_12_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="10343" OriginX="0.12861" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4019" OriginX="0.23972" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5340" OriginX="0.35083" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_13" Name="_13" RenderTransform="1, 0, 0, 1, 502.677165, -971.338583">
+			<Path Name="_13_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 -180 0 0 -14.17 1129.61 L-14.17 1150.39 A13.7008 13.7008 0 0 1 -27.87 1164.09 L-41.57 1164.09">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-16.84" Canvas.Top="1143.5" Height="12.8" Name="_13TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -40.839895, 1138.185551" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="47" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_14" Name="_14" RenderTransform="1, 0, 0, 1, 370.393701, -986.456693">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_14_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_14_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="8714" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="17297" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_15" Name="_15" RenderTransform="1, 0, 0, 1, 438.425197, -1020.472441">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_15_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_15_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4747" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16382" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_16" Name="_16" RenderTransform="1, 0, 0, 1, 536.692913, -1016.692913">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_16_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_16_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="20294" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2491" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_17" Name="_17" RenderTransform="1, 0, 0, 1, 627.401575, -952.440945">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_17_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_17_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11115" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5543" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_18" Name="_18" RenderTransform="1, 0, 0, 1, 627.401575, -1005.354331">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_18_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_18_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="36" OriginX="0.26115" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="38" OriginX="0.31671" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="42" OriginX="0.37227" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_19" Name="_19" RenderTransform="1, 0, 0, 1, 627.401575, -903.307087">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_19_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_19_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16945" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1180" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_20" Name="_20" RenderTransform="1, 0, 0, 1, 559.370079, -865.511811">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_20_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_20_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="20009" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1158" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_21" Name="_21" RenderTransform="1, 0, 0, 1, 445.984252, -1005.354331">
+			<Path Name="_21_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L7.09 1122.52 A7.08661 7.08661 0 0 1 14.17 1129.61 L14.17 1135.28 A21.2598 21.2598 -180 0 0 35.43 1156.54 L56.69 1156.54">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_22" Name="_22" RenderTransform="1, 0, 0, 1, 476.220472, -1020.472441">
+			<Path Name="_22_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1158.43 A13.2283 13.2283 -180 0 0 13.23 1171.65 L26.46 1171.65">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_23" Name="_23" RenderTransform="1, 0, 0, 1, 574.488189, -1016.692913">
+			<Path Name="_23_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1129.61 A7.08661 7.08661 0 0 1 -7.09 1136.69 L-33.54 1136.69 A9.92126 9.92126 -180 0 0 -43.46 1146.61 L-43.46 1156.54">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_24" Name="_24" RenderTransform="1, 0, 0, 1, 627.401575, -1024.251969">
+			<Path Name="_24_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-3.54 1122.52 A3.54331 3.54331 -180 0 0 -7.09 1126.06 L-7.09 1144.96 A30.4724 30.4724 0 0 1 -37.56 1175.43 L-68.03 1175.43">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_25" Name="_25" RenderTransform="1, 0, 0, 1, 627.401575, -961.889764">
+			<Path Name="_25_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1113.07 L-68.03 1113.07">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_26" Name="_26" RenderTransform="1, 0, 0, 1, 627.401575, -922.204724">
+			<Path Name="_26_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 0 0 1 -14.17 1115.43 L-14.17 1100.31 A26.9291 26.9291 -180 0 0 -41.1 1073.39 L-68.03 1073.39">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_27" Name="_27" RenderTransform="1, 0, 0, 1, 597.165354, -903.307087">
+			<Path Name="_27_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1101.26 A21.2598 21.2598 -180 0 0 -21.26 1080 L-59.06 1080 A7.08661 7.08661 0 0 1 -66.14 1072.91 L-66.14 1065.83">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_28" Name="_28" RenderTransform="1, 0, 0, 1, 241.889764, -854.173228">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_28_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_28_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2567" OriginX="0.20057" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5196" OriginX="0.31168" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_29" Name="_29" RenderTransform="1, 0, 0, 1, 151.181102, -839.055118">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_29_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1096.06 L28.35 1069.61 L56.69 1096.06 L28.35 1122.52 L0 1096.06 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_29_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1096.06 L28.35 1069.61 L56.69 1096.06 L28.35 1122.52 L0 1096.06 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1076.220472" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7020" OriginX="0.13495" OriginY="0.24002">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1076.220472" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="15365" OriginX="0.24606" OriginY="0.24002">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_30" Name="_30" RenderTransform="1, 0, 0, 1, 166.299213, -782.362205">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_30_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_30_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5196" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4486" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_31" Name="_31" RenderTransform="1, 0, 0, 1, 198.425197, -967.559055">
+			<Path Name="_31_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1156.77 A34.252 34.252 -180 0 0 34.25 1191.02 L75.83 1191.02 A3.54331 3.54331 0 0 1 79.37 1194.57 L79.37 1198.11">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_33" Name="_33" RenderTransform="1, 0, 0, 1, 45.354331, -805.03937">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_33_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_33_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7020" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="15365" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_34" Name="_34" RenderTransform="1, 0, 0, 1, 177.637795, -839.055118">
+			<Path Name="_34_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M1.89 1122.52 L9.45 1122.52 A7.55906 7.55906 0 0 1 17.01 1130.08 L17.01 1156.54">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="14.341" Canvas.Top="1125.6" Height="12.8" Name="_34TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -9.658793, 1120.232795" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_35" Name="_35" RenderTransform="1, 0, 0, 1, 264.566929, -740.787402">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_35_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_35_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7212" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="19498" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_36" Name="_36" RenderTransform="1, 0, 0, 1, 347.716535, -709.606299">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_36_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_36_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1979" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4591" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_37" Name="_37" RenderTransform="1, 0, 0, 1, 438.425197, -687.874016">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_37_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_37_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7741" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="20174" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_38" Name="_38" RenderTransform="1, 0, 0, 1, 154.96063, -687.874016">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_38_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_38_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12977" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2145" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_39" Name="_39" RenderTransform="1, 0, 0, 1, 52.913386, -687.874016">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_39_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_39_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="3430" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2416" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_40" Name="_40" RenderTransform="1, 0, 0, 1, 45.354331, -752.125984">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_40_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_40_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5196" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4486" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_41" Name="_41" RenderTransform="1, 0, 0, 1, 277.795276, -854.173228">
+			<Path Name="_41_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1140 A17.4803 17.4803 0 0 1 -17.48 1157.48 L-76.06 1157.48 A7.08661 7.08661 -180 0 0 -83.15 1164.57 L-83.15 1171.65">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-36.892" Canvas.Top="1151.1" Height="12.8" Name="_41TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -60.892014, 1145.744606" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_42" Name="_42" RenderTransform="1, 0, 0, 1, 49.133858, -971.338583">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_42_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1096.06 L28.35 1069.61 L56.69 1096.06 L28.35 1122.52 L0 1096.06 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_42_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1096.06 L28.35 1069.61 L56.69 1096.06 L28.35 1122.52 L0 1096.06 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1076.220472" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2567" OriginX="0.13495" OriginY="0.24002">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1076.220472" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="3380" OriginX="0.24606" OriginY="0.24002">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_43" Name="_43" RenderTransform="1, 0, 0, 1, 170.07874, -978.897638">
+			<Path Name="_43_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 0 0 1 -14.17 1115.43 L-14.17 1115.43 A11.811 11.811 -180 0 0 -25.98 1103.62 L-64.25 1103.62">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-30.879" Canvas.Top="1097.2" Height="12.8" Name="_43TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -54.878822, 1091.886338" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="47" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_44" Name="_44" RenderTransform="1, 0, 0, 1, 49.133858, -910.866142">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_44_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_44_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="3380" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="10365" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_46" Name="_46" RenderTransform="1, 0, 0, 1, 120.944882, -908.976378">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_46_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1109.29 A26.4567 13.2283 0 0 1 52.91 1109.29 A26.4567 13.2283 0 0 1 0 1109.29 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_46_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1109.29 A26.4567 13.2283 0 0 1 52.91 1109.29 A26.4567 13.2283 0 0 1 0 1109.29 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 3.307087, 1097.716535" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7275" OriginX="0.13003" OriginY="0.1539">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 3.307087, 1097.716535" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12326" OriginX="0.24114" OriginY="0.1539">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_47" Name="_47" RenderTransform="1, 0, 0, 1, 49.133858, -857.952756">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_47_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1108.35 A28.3465 14.1732 0 0 1 56.69 1108.35 A28.3465 14.1732 0 1 1 0 1108.35 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_47_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1108.35 A28.3465 14.1732 0 0 1 56.69 1108.35 A28.3465 14.1732 0 1 1 0 1108.35 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 3.543307, 1095.944882" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="3430" OriginX="0.14725" OriginY="0.16252">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 3.543307, 1095.944882" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2416" OriginX="0.25837" OriginY="0.16252">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_48" Name="_48" RenderTransform="1, 0, 0, 1, 103.937008, -912.755906">
+			<Path Name="_48_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M1.89 1113.07 L17.01 1113.07">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_49" Name="_49" RenderTransform="1, 0, 0, 1, 68.031496, -910.866142">
+			<Path Name="_49_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M9.45 1122.52 L9.45 1147.09">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_50" Name="_50" RenderTransform="1, 0, 0, 1, 151.181102, -865.511811">
+			<Path Name="_50_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 -180 0 0 -14.17 1129.61 L-14.17 1156.06 A8.0315 8.0315 0 0 1 -22.2 1164.09 L-30.24 1164.09">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-16.84" Canvas.Top="1137.6" Height="12.8" Name="_50TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -40.839895, 1132.23951" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="51" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_51" Name="_51" RenderTransform="1, 0, 0, 1, 166.299213, -793.700787">
+			<Path Name="_51_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-7.09 1122.52 A7.08661 7.08661 -180 0 0 -14.17 1129.61 L-14.17 1129.61 A15.5906 15.5906 0 0 1 -29.76 1145.2 L-45.35 1145.2">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_53" Name="_53" RenderTransform="1, 0, 0, 1, 203.149606, -782.362205">
+			<Path Name="_53_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M-8.5 1122.52 L-8.5 1178.27 a0.944882 0.944882 0 0 1 -0.944882 0.944882 L-10.39 1179.21">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_52" Name="_52" RenderTransform="1, 0, 0, 1, 194.645669, -782.362205">
+			<Path Name="_52_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1151.22 A28.7008 28.7008 0 0 1 -28.7 1179.92 L-103.58 1179.92 a0.354331 0.354331 0 0 1 -0.354331 -0.354331 L-103.94 1179.21">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_54" Name="_54" RenderTransform="1, 0, 0, 1, 222.992126, -793.700787">
+			<Path Name="_54_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L7.94 1122.52 A7.93701 7.93701 0 0 1 15.87 1130.46 L15.87 1164.09 A45.3543 45.3543 -180 0 0 61.23 1209.45 L215.43 1209.45">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_55" Name="_55" RenderTransform="1, 0, 0, 1, 222.992126, -793.700787">
+			<Path Name="_55_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L7.94 1122.52 A7.93701 7.93701 0 0 1 15.87 1130.46 L15.87 1143.69 A12.8504 12.8504 -180 0 0 28.72 1156.54 L41.57 1156.54">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_56" Name="_56" RenderTransform="1, 0, 0, 1, 222.992126, -793.700787">
+			<Path Name="_56_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L7.94 1122.52 A7.93701 7.93701 0 0 1 15.87 1130.46 L15.87 1142.36 A45.3543 45.3543 -180 0 0 61.23 1187.72 L124.72 1187.72">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_57" Name="_57" RenderTransform="1, 0, 0, 1, 313.700787, -843.779528">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_57_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1104.57 L37.8 1086.61 L75.59 1104.57 L37.8 1122.52 L0 1104.57 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_57_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1104.57 L37.8 1086.61 L75.59 1104.57 L37.8 1122.52 L0 1104.57 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 6.299213, 1091.102362" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16890" OriginX="0.21697" OriginY="0.17359">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 6.299213, 1091.102362" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16880" OriginX="0.32808" OriginY="0.17359">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_58" Name="_58" RenderTransform="1, 0, 0, 1, 226.771654, -978.897638">
+			<Path Name="_58_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L80.31 1122.52 A45.3543 45.3543 0 0 1 125.67 1167.87 L125.67 1219.56 a0.472441 0.472441 0 0 1 -0.472441 0.472441 L125.2 1220.03 a0.472441 0.472441 -180 0 0 -0.472441 0.472441 L124.72 1221.73">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="110.25" Canvas.Top="1116.1" Height="12.8" Name="_58TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 86.246719, 1110.783976" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_60" Name="_60" RenderTransform="1, 0, 0, 1, 540.472441, -816.377953">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_60_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_60_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7212" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="19498" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_61" Name="_61" RenderTransform="1, 0, 0, 1, 476.220472, -774.80315">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_61_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_61_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1979" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4591" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_62" Name="_62" RenderTransform="1, 0, 0, 1, 381.732283, -776.692913">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_62_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_62_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12977" OriginX="0.23338" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2145" OriginX="0.34449" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_45" Name="_45" RenderTransform="1, 0, 0, 1, 68.031496, -971.338583">
+			<Path Name="_45_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M9.45 1122.52 L9.45 1160.31">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="6.7822" Canvas.Top="1135" Height="12.8" Name="_45TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -17.217848, 1129.681614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_66" Name="_66" RenderTransform="1, 0, 0, 1, 440.314961, -850.393701">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_66_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_66_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16890" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="16880" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_59" Name="_59" RenderTransform="1, 0, 0, 1, 351.496063, -843.779528">
+			<Path Name="_59_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1147.56 A25.0394 25.0394 0 0 1 -25.04 1172.6 L-128.5 1172.6">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-49.213" Canvas.Top="1166.2" Height="12.8" Name="_59TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -73.213127, 1160.862716" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_67" Name="_67" RenderTransform="1, 0, 0, 1, 389.291339, -852.283465">
+			<Path Name="_67_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1113.07 L51.02 1113.07">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="22.845" Canvas.Top="1106.7" Height="12.8" Name="_67TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -1.154856, 1101.335157" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="51" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_63" Name="_63" RenderTransform="1, 0, 0, 1, 497.007874, -861.732283">
+			<Path Name="_63_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L7.09 1122.52 A7.08661 7.08661 0 0 1 14.17 1129.61 L14.17 1134.33 A14.6457 14.6457 -180 0 0 28.82 1148.98 L43.46 1148.98">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_64" Name="_64" RenderTransform="1, 0, 0, 1, 462.992126, -850.393701">
+			<Path Name="_64_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M5.67 1122.52 L5.67 1175.43 A3.77953 3.77953 -180 0 0 9.45 1179.21 L13.23 1179.21">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_65" Name="_65" RenderTransform="1, 0, 0, 1, 440.314961, -861.732283">
+			<Path Name="_65_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L-10.39 1122.52 A10.3937 10.3937 -180 0 0 -20.79 1132.91 L-20.79 1169.76">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_32" Name="_32" RenderTransform="1, 0, 0, 1, 198.425197, -967.559055">
+			<Path Name="_32_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1122.52 L0 1126.06 A3.54331 3.54331 0 0 1 -3.54 1129.61 L-3.54 1129.61 A15.3543 15.3543 -180 0 0 -18.9 1144.96 L-18.9 1198.11">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-21.564" Canvas.Top="1150" Height="12.8" Name="_32TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -45.564304, 1144.665423" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_68" Name="_68" RenderTransform="1, 0, 0, 1, 122.834646, -631.181102">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_68_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_68_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11102" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="6253" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_69" Name="_69" RenderTransform="1, 0, 0, 1, 115.275591, -578.267717">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_69_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_69_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4019" OriginX="0.20057" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2561" OriginX="0.31168" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_70" Name="_70" RenderTransform="1, 0, 0, 1, 113.385827, -521.574803">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_70_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_70_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4019" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2561" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_71" Name="_71" RenderTransform="1, 0, 0, 1, 270.23622, -629.291339">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_71_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_71_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11102" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="6253" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_72" Name="_72" RenderTransform="1, 0, 0, 1, 262.677165, -576.377953">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_72_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_72_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12279" OriginX="0.20057" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1559" OriginX="0.31168" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_73" Name="_73" RenderTransform="1, 0, 0, 1, 260.787402, -519.685039">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_73_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_73_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="12279" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="1559" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_74" Name="_74" RenderTransform="1, 0, 0, 1, 385.511811, -629.291339">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_74_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_74_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="11102" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="6253" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_75" Name="_75" RenderTransform="1, 0, 0, 1, 428.976378, -572.598425">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_75_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_75_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 L35.91 1084.72 L71.81 1103.62 L35.91 1122.52 L0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7020" OriginX="0.20057" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 5.984252, 1089.448819" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="15365" OriginX="0.31168" OriginY="0.18097">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_76" Name="_76" RenderTransform="1, 0, 0, 1, 427.086614, -517.795276">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_76_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_76_G0" StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 1103.62 A37.7953 18.8976 0 1 1 75.59 1103.62 A37.7953 18.8976 0 0 1 0 1103.62 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Path.Fill>
+			</Path>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="7020" OriginX="0.17782" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="15365" OriginX="0.28893" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 4.724409, 1087.086614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="2605" OriginX="0.40004" OriginY="0.20558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_77" Name="_77" RenderTransform="1, 0, 0, 1, 485.669291, -629.291339">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="S_77_G0_P0" Width="57.026"
+						StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+						StrokeStartLineCap="Round">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#7FCDCDCD"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="1099.7" Height="23.01" Name="_77_G0_P0" Width="57.026"
+					StrokeThickness="0.5" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+						<LinearGradientBrush.GradientStops>
+							<GradientStop Color="#FFF0F0F0"/>
+							<GradientStop Color="#FFFFFFFF" Offset="1"/>
+						</LinearGradientBrush.GradientStops>
+					</LinearGradientBrush>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="5196" OriginX="0.18417" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 1099.84252" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="4486" OriginX="0.29528" OriginY="0.15144">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_79" Name="_79" RenderTransform="1, 0, 0, 1, 141.732283, -578.267717">
+			<Path Name="_79_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M9.45 1122.52 L9.45 1141.42">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_81" Name="_81" RenderTransform="1, 0, 0, 1, 289.133858, -576.377953">
+			<Path Name="_81_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M9.45 1122.52 L9.45 1141.42">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_82" Name="_82" RenderTransform="1, 0, 0, 1, 411.968504, -629.291339">
+			<Path Name="_82_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M1.89 1122.52 L1.89 1160.31 L17.01 1160.31">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-0.7769" Canvas.Top="1142.6" Height="12.8" Name="_82TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -24.776903, 1137.240669" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_83" Name="_83" RenderTransform="1, 0, 0, 1, 516.850394, -629.291339">
+			<Path Name="_83_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M-2.83 1122.52 L-2.83 1160.31 L-16.06 1160.31">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Rectangle Canvas.Left="-5.5013" Canvas.Top="1141.6" Height="12.8" Name="_83TxtBck" Width="5.3335"
+					StrokeThickness="9.6" StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -29.501312, 1136.295787" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_84" Name="_84" RenderTransform="1, 0, 0, 1, 455.433071, -573.543307">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 1.92, 1.92">
+				<Path Name="S_84_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round"
+						StrokeLineJoin="Round" StrokeStartLineCap="Round" Data="F0 M9.45 1123.46 L9.45 1140.47">
+					<Path.Stroke>
+						<SolidColorBrush Color="#7FC0C0C0"/>
+					</Path.Stroke>
+				</Path>
+			</Canvas>
+			<Path Name="_84_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M9.45 1123.46 L9.45 1140.47">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_78" Name="_78" RenderTransform="1, 0, 0, 1, 128.503937, -642.519685">
+			<Path Name="_78_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M-5.67 1122.52 L-27.4 1122.52 L-27.4 1167.87 L-21.44 1167.87">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_78_G0_line__MrkrEnd" RenderTransform="0, 4.693333, 4.693333, 0, -13.228346, 1167.874016" Data="M 1 -2 L 0 0 L -0.993387 -1.98117 C -0.364515 -1.67173 0.372641 -1.67301 1.00043 -1.98465 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Fill>
+			</Path>
+			<Rectangle Canvas.Left="-30.068" Canvas.Top="1135" Height="12.8" Name="_78TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -54.068241, 1129.681614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_85" Name="_85" RenderTransform="1, 0, 0, 1, 173.858268, -642.519685">
+			<Path Name="_85_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M5.67 1122.52 L27.4 1122.52 L27.4 1167.87 L21.44 1167.87">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_85_G0_line__MrkrEnd" RenderTransform="0, -4.693333, -4.693333, 0, 13.228346, 1167.874016" Data="M 1 -2 L 0 0 L -0.993387 -1.98117 C -0.364515 -1.67173 0.372641 -1.67301 1.00043 -1.98465 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Fill>
+			</Path>
+			<Rectangle Canvas.Left="24.735" Canvas.Top="1135" Height="12.8" Name="_85TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0.734908, 1129.681614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_80" Name="_80" RenderTransform="1, 0, 0, 1, 275.905512, -640.629921">
+			<Path Name="_80_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M-5.67 1122.52 L-27.4 1122.52 L-27.4 1167.87 L-21.44 1167.87">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_80_G0_line__MrkrEnd" RenderTransform="0, 4.693333, 4.693333, 0, -13.228346, 1167.874016" Data="M 1 -2 L 0 0 L -0.993387 -1.98117 C -0.364515 -1.67173 0.372641 -1.67301 1.00043 -1.98465 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Fill>
+			</Path>
+			<Rectangle Canvas.Left="-30.068" Canvas.Top="1135" Height="12.8" Name="_80TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, -54.068241, 1129.681614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="48" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+		<Canvas Tag="_86" Name="_86" RenderTransform="1, 0, 0, 1, 321.259843, -640.629921">
+			<Path Name="_86_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M5.67 1122.52 L27.4 1122.52 L27.4 1167.87 L21.44 1167.87">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_86_G0_line__MrkrEnd" RenderTransform="0, -4.693333, -4.693333, 0, 13.228346, 1167.874016" Data="M 1 -2 L 0 0 L -0.993387 -1.98117 C -0.364515 -1.67173 0.372641 -1.67301 1.00043 -1.98465 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF404040"/>
+				</Path.Fill>
+			</Path>
+			<Rectangle Canvas.Left="24.735" Canvas.Top="1135" Height="12.8" Name="_86TxtBck" Width="5.3335" StrokeThickness="9.6"
+					StrokeDashCap="Square">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFFFFFFF"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0.734908, 1129.681614" FontRenderingEmSize="0.11111"
+						FontUri="2E152297-20AD-7E1D-D228-9477DD16C46D.odttf" Indices="49" OriginX="0.25" OriginY="0.15558">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+	</Canvas>
+</Canvas>

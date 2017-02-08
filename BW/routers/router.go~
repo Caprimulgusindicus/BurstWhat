@@ -1,0 +1,14 @@
+package routers
+
+import (
+	"BW/controllers"
+	"github.com/astaxie/beego"
+)
+
+func init() {
+    beego.Router("home", &controllers.MainController{})
+    beego.Router("citizen",&controllers.MainController{},"get:Citizen")
+    beego.Router("hobby",&controllers.MainController{},"get:Hobby")
+    beego.Router("moment",&controllers.MainController{},"get:Moment")
+    beego.Router("sign",&controllers.MainController{},"get:Sign")
+}

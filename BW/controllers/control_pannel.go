@@ -1,0 +1,35 @@
+package controllers
+
+type Control_pannel struct {
+
+	MainController
+}
+
+func (c *Control_pannel) Control_co() {
+
+	c.TplNames = "control_co.html"
+  
+}
+
+func (c *Control_pannel) Control_ft() {
+
+	c.TplNames = "control_ft.html"
+  
+}
+func (c *Control_pannel) Control_hy() {
+
+	c.TplNames = "control_hy.html"
+  
+}
+func (c *Control_pannel) Control_sx() {
+
+	c.TplNames = "control_sx.html"
+  
+}
+func (c *Control_pannel) Control_tj() {
+
+	c.TplNames = "control_tj.html"
+  
+}
+
+
